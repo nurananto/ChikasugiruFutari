@@ -2,11 +2,16 @@
   "type": "manga",
   "title": "Chikasugiru Futari",
   "alternativeTitle": "近すぎる2人",
-  "cover": "",
+  "cover": "https://cdn.nuranantoscans.my.id/covers/chikasugirufutari-673e858e-f661-42ca-a6c9-ce0c671de9b3.webp",
   "description": "Aoi dan Akane itu anak SMA, rumah mereka berdua sebelahan. Sejak lahir, bangun, tidur, bahkan mandi pun selalu bareng. Nyebut mereka “teman kecil” aja udah kurang greget—ini keseharian para kuso-najimi. Lebih dari teman kecil, tapi belum pacaran. Mereka semua sudah melakukan apapun bareng, hingga mereka udah kelihatan kayak suami istri. Romcom kuso-najimi dengan jarak diantara mereka berdua yang udah ngga biasa—dimulai!",
   "author": "Yamiara",
   "artist": "Yamiara",
-  "genre": ["Shounen","Comedy","Romance","School Life"],
+  "genre": [
+    "Shounen",
+    "Comedy",
+    "Romance",
+    "School Life"
+  ],
   "status": "ONGOING",
   "endChapter": null,
   "views": 0,
