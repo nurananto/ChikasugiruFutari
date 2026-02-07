@@ -13,7 +13,7 @@
       "School Life"
     ],
     "status": "ONGOING",
-    "views": 494,
+    "views": 536,
     "links": {
       "mangadex": "https://mangadex.org/title/c679bf28-e054-4bb7-93e6-18c089ee79f1/chikasugiru-futari",
       "raw": "https://comic-walker.com/detail/KC_008362_S?episodeType=first"
@@ -33,7 +33,7 @@
       "totalPages": 16,
       "pages": 16,
       "locked": false,
-      "views": 257
+      "views": 267
     },
     "2": {
       "title": "Chapter 2",
@@ -43,7 +43,7 @@
       "totalPages": 16,
       "pages": 16,
       "locked": false,
-      "views": 178
+      "views": 187
     },
     "3": {
       "title": "Chapter 3",
@@ -53,9 +53,9 @@
       "totalPages": 16,
       "pages": 16,
       "locked": false,
-      "views": 54
+      "views": 78
     }
   },
-  "lastUpdated": "2026-02-07T00:43:12+07:00",
+  "lastUpdated": "2026-02-08T00:28:33+07:00",
   "lastChapterUpdate": "2026-02-05T23:22:53+07:00"
 }
