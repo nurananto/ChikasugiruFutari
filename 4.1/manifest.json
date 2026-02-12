@@ -3,11 +3,13 @@
   "upload_date": "2026-02-12 10:17:49",
   "total_pages": 6,
   "pages": [
-    "https://cdn.nuranantoscans.my.id/ChikasugiruFutari/4.1/Image01.webp",
-    "https://cdn.nuranantoscans.my.id/ChikasugiruFutari/4.1/Image02.webp",
-    "https://cdn.nuranantoscans.my.id/ChikasugiruFutari/4.1/Image03.webp",
-    "https://cdn.nuranantoscans.my.id/ChikasugiruFutari/4.1/Image04.webp",
-    "https://cdn.nuranantoscans.my.id/ChikasugiruFutari/4.1/Image05.webp",
-    "https://cdn.nuranantoscans.my.id/ChikasugiruFutari/4.1/Image06.webp"
-  ]
+    "3a51b27a974c86b245b57a702451cef3:16cfad5353f37a21695a79eec2c73319cad66423516f6b85ac2a48b131ac268eabf319950d920bacfe3d01e9ce96cc33cbfc4c27d1f8c8951ee6cd05cc590ab06568b1702c7e14ba3dbe79cffc72ce5f",
+    "be48cb092fef977f267c735f72d343cf:6ae65c254d3d699b0582d0d4cf07b9a4c7a3fface9b596c2af158b436a93304f76eb72bed893dfd28c95f0cdb0794b927541bd43f3f21e706d6da9904e16df9f7ffed13f2b5b596de29dc192556e0c58",
+    "c23d507de8001c3c9185f2526537cb97:81e3884834bb7bee36afe9a10fa44e8600059adfd2d17bb66fd84442cac220aba0813d09e30c29e2065e4468360529eabaac0996059ffa794bb4b3f1a31b9d308e586451a2c2ad20832989ab1424626f",
+    "33b7bbbede7c6b1ffd0611ca632c428d:452bd022229e97e227df20490c5492f4768424a07b4e4e69c92ec673d5a20fa7ce72aa1833e194ae0a5a11370973f15ea93f5eda76cd268b17f41bb85fe1de87b845e2019b637864c930e63254f6bb66",
+    "c1e1ac664331e634dfd487314d910b56:a438f11e5aec9ecee8a11b455fc77736509e8383656a37619088993e5b1ad1a2e6f680d4f402251ba9e2976337bb25edfa71754099acb26b1baed35b32aab3d9564ea7db856dc0a6f9173c7b658ccabd",
+    "322b3e99791e2d7969d1fb9e708ca3da:975df6d49beb0ee13c83369b3f3ef237f67e5b73729d3ac6f186edf659b83619aeb4080a4b3f0ea39f66784f86a761480698d8a601c5eb500a923783c08105bd7131c5c82b9b03692fb2347a2551f7cb"
+  ],
+  "encrypted": true,
+  "encryption_version": "1.0"
 }
