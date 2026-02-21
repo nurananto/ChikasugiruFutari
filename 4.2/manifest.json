@@ -3,12 +3,14 @@
   "upload_date": "2026-02-19 10:43:56",
   "total_pages": 7,
   "pages": [
-    "https://cdn.nuranantoscans.my.id/ChikasugiruFutari/4.2/Image01.webp",
-    "https://cdn.nuranantoscans.my.id/ChikasugiruFutari/4.2/Image02.webp",
-    "https://cdn.nuranantoscans.my.id/ChikasugiruFutari/4.2/Image03.webp",
-    "https://cdn.nuranantoscans.my.id/ChikasugiruFutari/4.2/Image04.webp",
-    "https://cdn.nuranantoscans.my.id/ChikasugiruFutari/4.2/Image05.webp",
-    "https://cdn.nuranantoscans.my.id/ChikasugiruFutari/4.2/Image06.webp",
-    "https://cdn.nuranantoscans.my.id/ChikasugiruFutari/4.2/Image07.webp"
-  ]
+    "7c46c8fb9efc3928052eeceec53dff71:b3b7b4c27bffad1b678914a7ac3b698e6bed3f777d23808a4c15fb07b93ebce8492912ba1063937fe4150f920fba96b9cefa717c3a43a96407748208e5a1b247dbc0ca7b1185b94af61e7108c18ead23",
+    "abb75ad779e9fdfe8285c692ac9622b6:b9c56381bb9909eece04ae6ca50b708a464e23d8173d0b4d46ab7150a49660a2bb2397ac59ee2a85d0f33199a0bc7ac3c1fad2994466784e6cc96c5bbba25187119cf0bc13acbaa2bfaaa25114d1324e",
+    "97d2085c672c9ffe1039ff9073fb0ee1:74e327c5ac6be447fab9ec24a6f477b96098694450c68273d42af610f9acebdfaabaf0602c5243840d6cce5c09ece7709894ce1ad36ad070e98816489f1d537e84f49ee21e4b6669de3f787284259145",
+    "0051f1ecd676596faad403418215808f:d48bfa23582816704f72c9a513f8700b9acda555fc73ee1411cf8c26cb32afe981ca0f5da4f2221b82c8cbda57dfbe0f9fde55f50bcc1986321a659ad40f590cf73b2b65f7f2c765b95f6277a729337a",
+    "2b5c6c154191e7a6b1ae7e420c3a0876:1024c986f0770e1f5fb2f74bcc084c3d31340fcbce73a192008d9785fedcb345fa103e2e219a48cfd80b5e3ee64125438099e6f02c13fcb127a0481b63dbf699ac336902e2af007df699c39713504022",
+    "51c1f7618973c48e361fee3a47281bf2:05f22487868e3174c03c9bf38f350f10f7488ea761decec1708de948d4a707f5622e4ba8fae22bbe9e95dae9a10db06073ffc87f508eb9473993b727077368af99ea0dbdfbf32d8c19cbd865d7d52199",
+    "b565be2892a481dc1d1be94ca2eb61c0:32d50c164fe73851e32be4afaa18b58bc1fcc05cbb6d7bfa51964ad60ad495890be78641d6f6b466723b151d0e37d982efde51280e6d97d5512ba546cbb977d0841c2baacbe0c1cce86e8d2d0dd65821"
+  ],
+  "encrypted": true,
+  "encryption_version": "1.0"
 }
