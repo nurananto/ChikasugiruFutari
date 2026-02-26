@@ -55,6 +55,16 @@
       "locked": false,
       "views": 227
     },
+    "5": {
+      "title": "Chapter 5",
+      "chapter": 5,
+      "folder": "5",
+      "uploadDate": "2026-02-26T13:39:15+07:00",
+      "totalPages": 8,
+      "pages": 8,
+      "locked": false,
+      "views": 0
+    },
     "4.1": {
       "title": "Chapter 4.1",
       "chapter": 4.1,
@@ -76,6 +86,6 @@
       "views": 96
     }
   },
-  "lastUpdated": "2026-02-25T17:01:00.176Z",
-  "lastChapterUpdate": "2026-02-19T10:44:51+07:00"
+  "lastUpdated": "2026-02-26T13:40:12+07:00",
+  "lastChapterUpdate": "2026-02-26T13:39:15+07:00"
 }
