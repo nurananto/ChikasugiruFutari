@@ -12,9 +12,7 @@
 | Judul Alternatif | 近すぎる2人 |
 | Author | Yamiara |
 | Tipe | Manga (Hitam Putih) |
-| Status | Ongoing |
 | Genre | Shounen · Comedy · Romance · School Life |
-| Chapter | 6 chapter |
 
 ## Link
 
