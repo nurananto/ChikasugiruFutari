@@ -13,7 +13,7 @@
       "School Life"
     ],
     "status": "ONGOING",
-    "views": 1743,
+    "views": 1907,
     "links": {
       "mangadex": "https://mangadex.org/title/c679bf28-e054-4bb7-93e6-18c089ee79f1/chikasugiru-futari",
       "raw": "https://comic-walker.com/detail/KC_008362_S?episodeType=first"
@@ -33,7 +33,7 @@
       "totalPages": 16,
       "pages": 16,
       "locked": false,
-      "views": 442
+      "views": 453
     },
     "2": {
       "title": "Chapter 2",
@@ -43,7 +43,7 @@
       "totalPages": 16,
       "pages": 16,
       "locked": false,
-      "views": 334
+      "views": 343
     },
     "3": {
       "title": "Chapter 3",
@@ -53,7 +53,7 @@
       "totalPages": 16,
       "pages": 16,
       "locked": false,
-      "views": 273
+      "views": 282
     },
     "4.1": {
       "title": "Chapter 4.1",
@@ -63,7 +63,7 @@
       "totalPages": 6,
       "pages": 6,
       "locked": false,
-      "views": 238
+      "views": 248
     },
     "4.2": {
       "title": "Chapter 4.2",
@@ -73,7 +73,7 @@
       "totalPages": 7,
       "pages": 7,
       "locked": false,
-      "views": 178
+      "views": 192
     },
     "5.1": {
       "title": "Chapter 5.1",
@@ -83,7 +83,7 @@
       "totalPages": 8,
       "pages": 8,
       "locked": false,
-      "views": 178
+      "views": 199
     },
     "5.2": {
       "title": "Chapter 5.2",
@@ -93,9 +93,9 @@
       "totalPages": 8,
       "pages": 8,
       "locked": false,
-      "views": 0
+      "views": 57
     }
   },
-  "lastUpdated": "2026-03-05T11:43:29+07:00",
+  "lastUpdated": "2026-03-05T17:01:02.000Z",
   "lastChapterUpdate": "2026-03-05T11:42:46+07:00"
 }
