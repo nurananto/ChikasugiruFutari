@@ -3,13 +3,15 @@
   "upload_date": "2026-03-05 11:42:25",
   "total_pages": 8,
   "pages": [
-    "https://cdn.nuranantoscans.my.id/ChikasugiruFutari/5.2/Image01.webp",
-    "https://cdn.nuranantoscans.my.id/ChikasugiruFutari/5.2/Image02.webp",
-    "https://cdn.nuranantoscans.my.id/ChikasugiruFutari/5.2/Image03.webp",
-    "https://cdn.nuranantoscans.my.id/ChikasugiruFutari/5.2/Image04.webp",
-    "https://cdn.nuranantoscans.my.id/ChikasugiruFutari/5.2/Image05.webp",
-    "https://cdn.nuranantoscans.my.id/ChikasugiruFutari/5.2/Image06.webp",
-    "https://cdn.nuranantoscans.my.id/ChikasugiruFutari/5.2/Image07.webp",
-    "https://cdn.nuranantoscans.my.id/ChikasugiruFutari/5.2/Image08.webp"
-  ]
+    "ba0c0253e55c2d748ddd7a5fee51abfe:1281df31e7b56c13d3bf7ec8ce631ead1a5912c6b42a9b1397841b3aad4541693718e2154cdc92b59fe2d730733293cd66c47be2bc39158ab250441dc8938358cee0595b28f44ffe496b4f48c79ffbef",
+    "7be96da1441a64b41582b8ee51e44e9e:433acc967e8f02be26aa18d5bf2508de6c8fbbbd52d4b0ec5e2d0147ca687699448e5781778c4dc49073ba95a7b57973d4fdeed954f28633e6f993a03ee89fd09ed2017c770d4e147739adc466afaf43",
+    "738455bb98bd719a79be306c102afee0:669f68a278cb5dab4b655a2a5e9750e1cd27972b17972405b640a3cc36fae8d0ba94d14dfe277163e14131407c95600f853ef0395136ea51af1b1f2d1a074ac23613733e3e4ffdeb0a2e2d0ce601c8cc",
+    "836cfa52027bbc92b5b46d81372692a7:ef408a9180b099349c37d36031ff71bc9134158a7bf805da88014eaf1f5a1d19c8852d137be689ac64b8b266e1d47e4c1db95da764d671fa35459e8a331e8c3f8cb3de2026eef73da2c6a93c32a9b343",
+    "18888a0118ec2ebec6711493bf344acf:48d500a5bb0f3b15f6a8a3ef01008840ea94348ceb267425725c6b1d3398f4735f8e4f4d76b485fe83df09ef2541308ebca921db392d6fa8e10dcae1d6da2414acaf77eea5335106207924a37f044d50",
+    "bcb2b3100a446c1278eb9ce52842bf0a:cf3a70583cc0b77e59df30ccc4cefc154b97edc600f7c0572d9073e7c4d3b2a3651207fc6dc0b556929600bbaa37d33352903673bfe79c7e852bb1af524780fb856e3ae3ffdbae376eee5d8eeb4bd140",
+    "936deceb87a30c74edf835197362ea5c:0a2ab6bd584d825775ba7cbd38ccdcfa837be6765f5925c3b72a8c044f5718e4a1b0e36f1fddfe266eeaffd0f270d0af92188580f97f3b8d3cd3c3fc4d8a92c0d047657495ba11b1a8a42e716b66cabb",
+    "2923e02fd8183d3902f42174f6d5a6ca:6946f95e4fd7333d78fe5f8a24844b67074b1343df41e750d680e4ddc6223fb46a787381e65ac08dedd6095c7a3a4677fcc9e4f2325de439bd3c38a2fdcc2190a0ff63fe48a04c9a99647e3991703a12"
+  ],
+  "encrypted": true,
+  "encryption_version": "1.0"
 }
